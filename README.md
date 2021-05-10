@@ -13,6 +13,3 @@ A small fight simulation between the two, LoadBalancer trying to assign/track/sc
 If all tasks are complete, LoadBalancer wins.
 If all servers are down, ChaosMonkey wins.
 
-
-### Note:
-Code was last tested for time_based = True scheduling, do put it True when asked (anyways who puts False for bad scheduling algorithm)

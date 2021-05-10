@@ -1,4 +1,3 @@
-# CODE IS IN DEVELOPMENT, TIME BASED TRUE IS TESTED
 import random
 import uuid
 import time
