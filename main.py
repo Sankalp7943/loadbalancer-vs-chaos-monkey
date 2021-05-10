@@ -49,9 +49,9 @@ class Server:
         )
     
     def get_status(self):
-    """
-    Prints status of a server
-    """
+        """
+        Prints status of a server
+        """
         if self.status:
             print(f"Server '{self.server_name}' is online")
         else:
